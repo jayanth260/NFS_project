@@ -1,0 +1,475 @@
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 52238.
+operation 'copy dir ./dir1 ./dir5' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32673.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 42640.
+operation 'create file ./dir1/dir' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32554.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 40692.
+operation 'create file ./dir1/dir' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32552.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 37590.
+operation 'create file ./dir1/dir' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32528.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 34222.
+operation 'create file ./dir1/dir' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32534.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 45100.
+operation 'create file ./dir1/dir' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32650.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 36848.
+operation 'create file ./dir1/dir' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32752.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 41726.
+operation 'create file ./dir1/dir' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32747.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 44142.
+operation 'create file ./dir1/dir' by client 0, involing Storage server 0 is  unsuccessful.
+client 0 disconnected. ip: , port: 32532.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 45394.
+invalid path by client 0 on operation 'copy dir ./dir1 ./dir2'.
+client 0 disconnected. ip: ÿÿÿÿ, port: 32517.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 34840.
+operation 'copy dir ./dir1 ./dir5' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32544.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 38158.
+operation 'copy dir ./dir1 ./dir5' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32674.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 40380.
+operation 'copy dir ./dir1 ./dir5' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32735.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 37872.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 54856.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 43944.
+operation 'create file ./dir1/dir' by client 0, involing Storage server 0 is  unsuccessful.
+client 0 disconnected. ip: , port: 32718.
+client 1 connected. ip: 127.0.0.1, port: 54344.
+operation 'create file ./dir1/dir' by client 1, involing Storage server 0 is  unsuccessful.
+client 1 disconnected. ip: , port: 32718.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 51212.
+operation 'copy dir ./dir1 ./dir5' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32609.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 51636.
+operation 'copy dir ./dir1 ./dir5' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32593.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 34270.
+operation 'copy file ./dir1/file6.txt ./dir5/f2.txt' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32650.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 50302.
+operation 'copy file ./dir1/file6.txt ./dir5/f2.txt' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32526.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 46642.
+operation 'copy dir ./dir1 ./dir5' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32760.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 50526.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 44602.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 33484.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 46474.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 44496.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 37428.
+operation 'copy file ./dir1/file6.txt ./dir5/f2.txt' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32763.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 45842.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 55114.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 51218.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 53878.
+operation 'copy dir ./dir1 ./dir5' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32565.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 35138.
+operation 'copy dir ./dir1 ./dir5' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: , port: 32694.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 45024.
+operation 'copy dir ./dir1 ./dir5' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 45024.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 38074.
+operation 'copy dir ./acc_dir1 ./acc_dir2' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 38074.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 35736.
+operation 'copy dir ./acc_dir2 ./acc_dir1' by client 0, involing Storage server 1 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 35736.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 55326.
+operation 'copy dir ./acc_dir2 ./acc_dir1' by client 0, involing Storage server 1 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 55326.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6001.
+storage server 1 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6002.
+storage server 2 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+storage server 2 disconnected. ip: 127.0.0.1, port: 6002.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: , port: 49.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: , port: 49.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: , port: 49.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 2 disconnected. ip: 127.0.0.1, port: 6002.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6002.
+storage server 2 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6002.
+storage server 2 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6002.
+storage server 2 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 2 disconnected. ip: 127.0.0.1, port: 6002.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+client 0 connected. ip: 127.0.0.1, port: 47756.
+operation 'copy dir ./acc_dir2 ./acc_dir1' by client 0, involing Storage server 1 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 47756.
+client 1 connected. ip: 127.0.0.1, port: 36190.
+operation 'write ./acc_dir1/file1.txt' by client 1, involing Storage server 0 is a success.
+client 1 disconnected. ip: 127.0.0.1, port: 36190.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6002.
+storage server 1 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6002.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+storage server 3 connected. ip: , port: 0.
+storage server 0 connected. ip: 127.0.0.1, port: 6001.
+storage server 1 connected. ip: 127.0.0.1, port: 6002.
+storage server 2 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6002.
+storage server 2 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+storage server 3 connected. ip: , port: 0.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 54524.
+invalid path by client 0 on operation 'write ./acc_dir1/file1.txt'.
+client 0 disconnected. ip: 127.0.0.1, port: 54524.
+storage server 3 connected. ip: 127.0.0.1, port: 6003.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6002.
+storage server 2 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 49874.
+operation 'write ./acc_dir1/file1.txt' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 49874.
+storage server 3 connected. ip: 127.0.0.1, port: 6003.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 57932.
+invalid path by client 0 on operation 'delete dir ./acc_dir1/'.
+client 0 disconnected. ip: 127.0.0.1, port: 57932.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 47418.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 51828.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 49596.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 57306.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 47778.
+operation 'delete dir ./acc_dir1/dir4' by client 0, involing Storage server 0 is  unsuccessful.
+client 0 disconnected. ip: 127.0.0.1, port: 47778.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 49776.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 56320.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 48944.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 46788.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 41758.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 33690.
+operation 'delete dir ./acc_dir1/dir4' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 33690.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+client 0 connected. ip: 127.0.0.1, port: 39622.
+operation 'write ./acc_dir1/file1.txt' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 39622.
+storage server 0 connected. ip: 127.0.0.1, port: 6002.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 42254.
+operation 'write ./acc_dir1/file1.txt' by client 0, involing Storage server 2 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 42254.
+storage server 0 connected. ip: 127.0.0.1, port: 6002.
+storage server 1 connected. ip: 127.0.0.1, port: 6000.
+storage server 2 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 44304.
+operation 'write ./acc_dir1/file1.txt' by client 0, involing Storage server 1 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 44304.
+storage server 0 connected. ip: 127.0.0.1, port: 6002.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6002.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6002.
+storage server 0 connected. ip: 127.0.0.1, port: 6002.
+storage server 1 connected. ip: 127.0.0.1, port: 6000.
+storage server 2 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 50238.
+operation 'write ./acc_dir1/file1.txt' by client 0, involing Storage server 1 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 50238.
+storage server 0 connected. ip: 127.0.0.1, port: 6002.
+storage server 1 connected. ip: 127.0.0.1, port: 6000.
+storage server 2 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6002.
+storage server 0 connected. ip: 127.0.0.1, port: 6001.
+storage server 1 connected. ip: 127.0.0.1, port: 6000.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6002.
+storage server 1 connected. ip: 127.0.0.1, port: 6000.
+storage server 2 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6002.
+storage server 2 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6002.
+storage server 0 connected. ip: 127.0.0.1, port: 6002.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6002.
+storage server 0 connected. ip: 127.0.0.1, port: 6002.
+storage server 1 connected. ip: 127.0.0.1, port: 6000.
+storage server 2 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6002.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6001.
+storage server 1 connected. ip: 127.0.0.1, port: 6000.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 41268.
+invalid path by client 0 on operation 'copy dir ./acc_dir1 ./acc_dir2'.
+client 0 disconnected. ip: 127.0.0.1, port: 41268.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6000.
+storage server 1 connected. ip: 127.0.0.1, port: 6001.
+client 0 connected. ip: 127.0.0.1, port: 45370.
+operation 'copy dir ./acc_dir1 ./acc_dir2' by client 0, involing Storage server 0 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 45370.
+storage server 0 connected. ip: 127.0.0.1, port: 6001.
+storage server 0 connected. ip: 127.0.0.1, port: 6001.
+storage server 1 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 49594.
+operation 'copy dir ./acc_dir1/dir1 ./acc_dir2' by client 0, involing Storage server 1 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 49594.
+storage server 0 connected. ip: 127.0.0.1, port: 6001.
+storage server 1 connected. ip: 127.0.0.1, port: 6000.
+client 0 connected. ip: 127.0.0.1, port: 60340.
+operation 'read ./acc_dir1/file1.txt' by client 0, involing Storage server 1 is a success.
+client 0 disconnected. ip: 127.0.0.1, port: 60340.
+client 1 connected. ip: 127.0.0.1, port: 44254.
+operation 'read ./acc_dir1/file1.txt' by client 1, involing Storage server 1 is a success.
+client 1 disconnected. ip: 127.0.0.1, port: 44254.
+client 2 connected. ip: 127.0.0.1, port: 34108.
+operation 'delete file ./acc_dir1/file1.txt' by client 2, involing Storage server 1 is a success.
+client 2 disconnected. ip: 127.0.0.1, port: 34108.
+storage server 2 connected. ip: 127.0.0.1, port: 6002.
+client 3 connected. ip: 127.0.0.1, port: 41862.
+invalid path by client 3 on operation 'write file ./acc_dir1/file1.txt'.
+client 3 disconnected. ip: 127.0.0.1, port: 41862.
+client 4 connected. ip: 127.0.0.1, port: 47964.
+invalid path by client 4 on operation 'write file ./acc_dir1/file2.txt'.
+client 4 disconnected. ip: 127.0.0.1, port: 47964.
+client 5 connected. ip: 127.0.0.1, port: 35466.
+invalid path by client 5 on operation 'write ./acc_dir1/file2.txt'.
+client 5 disconnected. ip: 127.0.0.1, port: 35466.
+client 6 connected. ip: 127.0.0.1, port: 53188.
+invalid path by client 6 on operation 'read ./acc_dir1/file2.txt'.
+client 6 disconnected. ip: 127.0.0.1, port: 53188.
+client 7 connected. ip: 127.0.0.1, port: 47730.
+invalid path by client 7 on operation 'read ./acc_dir1/file2.txt'.
+client 7 disconnected. ip: 127.0.0.1, port: 47730.
+client 8 connected. ip: 127.0.0.1, port: 47740.
+operation 'write ./acc_dir1/dir1/file3.txt' by client 8, involing Storage server 1 is a success.
+client 8 disconnected. ip: 127.0.0.1, port: 47740.
+client 9 connected. ip: 127.0.0.1, port: 51920.
+invalid path by client 9 on operation 'read ./acc_dir1/file1.txt'.
+client 9 disconnected. ip: 127.0.0.1, port: 51920.
+storage server 0 disconnected. ip: 127.0.0.1, port: 6001.
+storage server 2 disconnected. ip: 127.0.0.1, port: 6002.
+storage server 1 disconnected. ip: 127.0.0.1, port: 6000.
+storage server 3 connected. ip: 127.0.0.1, port: 5501.
